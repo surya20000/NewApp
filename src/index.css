@@ -1,0 +1,39 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(222,226,230);
+}
+.newsS {
+  display: flex;
+  text-align: left;
+  justify-content: space-between;
+}
+
+img {
+  height: 40vh;
+  width: 50vh;
+  border-radius: 2vh;
+}
+
+.description {
+  font-size: 2.8vh;
+  font-weight: 500;
+}
+
+.NC {
+  width: 800px;
+}
+
+a{
+  text-decoration: none;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2vh;
+}
+button{
+  font-size: 3vh;
+  padding: 2vh 4vh;
+  border-radius: 10px;
+}
